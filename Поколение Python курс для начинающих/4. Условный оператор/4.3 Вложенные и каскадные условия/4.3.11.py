@@ -41,4 +41,4 @@ elif (a1 < b1):
     if a2 <= b2:
         print(b1, a2)
     elif a2 > b2:
-        print(b1, b2) 
+        print(b1, b2)
