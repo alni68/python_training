@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8721b5-15ba-4a5e-9b56-7cc1f19d62d2" name="Changes" comment="" />
+    <list default="true" id="af8721b5-15ba-4a5e-9b56-7cc1f19d62d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Поколение Python курс для начинающих/  6  Типы данных/6.3 Модуль math/6,3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
